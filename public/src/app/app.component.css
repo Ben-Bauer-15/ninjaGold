@@ -1,0 +1,34 @@
+#total {
+    font-size: 30px;
+    margin-left: 2rem;
+}
+
+.location {
+    outline: 1px solid black;
+    display: inline-block;
+    margin-left: 2rem;
+    vertical-align: top;
+    padding: 0.5rem;
+    width: 18%;
+    text-align: center;
+}
+
+button {
+    width: 5.5rem;
+    background-image: linear-gradient(#33f4ff, #0082b3);
+    height: 2.5rem;
+    color: #f9f9f9;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+#activityLog {
+    outline: 1px solid black;
+    margin-top: 3rem;
+    width: 84%;
+    padding: 1rem;
+    overflow-y: scroll;
+    max-height: 400px;
+    margin-left: 2rem;
+}
+
